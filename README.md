@@ -1,6 +1,6 @@
 # NLW eSports - Trila Explorer
 
-![preview](.github\preview.png)
+![preview](./.github/preview.png)
 
 > Trila Explorer
 
